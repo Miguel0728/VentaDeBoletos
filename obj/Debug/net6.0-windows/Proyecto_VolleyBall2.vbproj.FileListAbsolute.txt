@@ -1,0 +1,17 @@
+C:\Users\melen\source\repos\Proyecto_VolleyBall2\bin\Debug\net6.0-windows\Proyecto_VolleyBall2.exe
+C:\Users\melen\source\repos\Proyecto_VolleyBall2\bin\Debug\net6.0-windows\Proyecto_VolleyBall2.deps.json
+C:\Users\melen\source\repos\Proyecto_VolleyBall2\bin\Debug\net6.0-windows\Proyecto_VolleyBall2.runtimeconfig.json
+C:\Users\melen\source\repos\Proyecto_VolleyBall2\bin\Debug\net6.0-windows\Proyecto_VolleyBall2.dll
+C:\Users\melen\source\repos\Proyecto_VolleyBall2\bin\Debug\net6.0-windows\Proyecto_VolleyBall2.pdb
+C:\Users\melen\source\repos\Proyecto_VolleyBall2\obj\Debug\net6.0-windows\Proyecto_VolleyBall2.Form1.resources
+C:\Users\melen\source\repos\Proyecto_VolleyBall2\obj\Debug\net6.0-windows\Proyecto_VolleyBall2.vbproj.GenerateResource.cache
+C:\Users\melen\source\repos\Proyecto_VolleyBall2\obj\Debug\net6.0-windows\Proyecto_VolleyBall2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\melen\source\repos\Proyecto_VolleyBall2\obj\Debug\net6.0-windows\Proyecto_VolleyBall2.AssemblyInfoInputs.cache
+C:\Users\melen\source\repos\Proyecto_VolleyBall2\obj\Debug\net6.0-windows\Proyecto_VolleyBall2.AssemblyInfo.vb
+C:\Users\melen\source\repos\Proyecto_VolleyBall2\obj\Debug\net6.0-windows\Proyecto_VolleyBall2.vbproj.CoreCompileInputs.cache
+C:\Users\melen\source\repos\Proyecto_VolleyBall2\obj\Debug\net6.0-windows\Proyecto_VolleyBall2.dll
+C:\Users\melen\source\repos\Proyecto_VolleyBall2\obj\Debug\net6.0-windows\refint\Proyecto_VolleyBall2.dll
+C:\Users\melen\source\repos\Proyecto_VolleyBall2\obj\Debug\net6.0-windows\Proyecto_VolleyBall2.pdb
+C:\Users\melen\source\repos\Proyecto_VolleyBall2\obj\Debug\net6.0-windows\Proyecto_VolleyBall2.genruntimeconfig.cache
+C:\Users\melen\source\repos\Proyecto_VolleyBall2\obj\Debug\net6.0-windows\ref\Proyecto_VolleyBall2.dll
+C:\Users\melen\source\repos\Proyecto_VolleyBall2\obj\Debug\net6.0-windows\Proyecto_VolleyBall2.Resources.resources
